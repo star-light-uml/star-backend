@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://47.96.12.239:3306/star-light?charset=utf8mb4&serverTimezone=UTC
+    username: root
+    password: 751842781-Yubing
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
